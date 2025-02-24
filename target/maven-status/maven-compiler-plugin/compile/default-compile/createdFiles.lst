@@ -1,0 +1,4 @@
+com\veiculos\VeiculosApplication.class
+com\veiculos\models\VeiculoModel.class
+com\veiculos\repository\VeiculoRepository.class
+com\veiculos\resources\VeiculoResource.class
